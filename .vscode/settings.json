@@ -1,0 +1,27 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.dragAndDrop": false,
+  "editor.fontFamily": "Inconsolata, Monaco, Consolas, 'Courier New', Courier",
+  "editor.fontSize": 13,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "boundary",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "git.autofetch": true,
+  "terminal.integrated.rendererType": "dom",
+  "vim.mouseSelectionGoesIntoVisualMode": true,
+  "vim.useSystemClipboard": true,
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "[dockerfile]": {
+    "editor.formatOnSave": false
+  },
+  "[markdown]": {
+    "editor.formatOnSave": false,
+    "files.trimTrailingWhitespace": false
+  }
+}
